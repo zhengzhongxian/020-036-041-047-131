@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T10:46:10.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Program.cs",
+              "RelativeDocumentMoniker": "NET_Midterm2025\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Program.cs",
+              "RelativeToolTip": "NET_Midterm2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:46:04.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
