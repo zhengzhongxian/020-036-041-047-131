@@ -35,12 +35,11 @@
                         </div>
 
                         <div class="mb-3">
-                            <label asp-for="AnhBia" class="form-label"></label>
-                            <input asp-for="AnhBia" type="file" class="form-control" accept="image/*" />
-                            <small class="text-muted">Chọn ảnh bìa sách</small>
+                            <label asp-for="AnhBia" class="form-label">Ảnh bìa (URL)</label>
+                            <input asp-for="AnhBia" type="url" class="form-control" placeholder="https://example.com/image.jpg" />
+                            <small class="text-muted">Nhập URL ảnh bìa sách</small>
                             <span asp-validation-for="AnhBia" class="text-danger small d-block"></span>
                         </div>
-                    </div>
 
                     <!-- Cột 2 -->
                     <div class="col-md-6">
