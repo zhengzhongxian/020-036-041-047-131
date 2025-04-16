@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\controllers\\phieumuoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\controllers\\phieumuoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\controllers\\nhaxuatbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\models\\docgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\models\\docgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\models\\docgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\models\\docgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\models\\thuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,16 +101,8 @@
       "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -116,11 +128,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "PhieuMuonController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\PhieuMuonController.cs",
+              "RelativeDocumentMoniker": "NET_Midterm2025\\Controllers\\PhieuMuonController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\PhieuMuonController.cs",
+              "RelativeToolTip": "NET_Midterm2025\\Controllers\\PhieuMuonController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:49:54.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhaxuatbanController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\NhaxuatbanController.cs",
+              "RelativeDocumentMoniker": "NET_Midterm2025\\Controllers\\NhaxuatbanController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\NhaxuatbanController.cs",
+              "RelativeToolTip": "NET_Midterm2025\\Controllers\\NhaxuatbanController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:49:49.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\.gitignore",
+              "RelativeDocumentMoniker": "NET_Midterm2025\\.gitignore",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\.gitignore",
+              "RelativeToolTip": "NET_Midterm2025\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T02:45:38.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DeveloperExceptionPageMiddlewareImpl.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\3836cd51391db7a02f7def6960cd96206fe9b63f522d75c4f0d20ad8407510bd\\DeveloperExceptionPageMiddlewareImpl.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3836cd51391db7a02f7def6960cd96206fe9b63f522d75c4f0d20ad8407510bd\\DeveloperExceptionPageMiddlewareImpl.cs",
@@ -133,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AuthenticationMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\31ec67c5e161f1ab64e6e4f6966466bc53731cc6f575d2bf3b2d3a6f7a3cd2e1\\AuthenticationMiddleware.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\31ec67c5e161f1ab64e6e4f6966466bc53731cc6f575d2bf3b2d3a6f7a3cd2e1\\AuthenticationMiddleware.cs",
@@ -146,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AuthorizationMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\d56a9a0d366ec38047eb2ecc5e91ad0417a4c268bf1e7ac3110bb8f2dad4646f\\AuthorizationMiddleware.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d56a9a0d366ec38047eb2ecc5e91ad0417a4c268bf1e7ac3110bb8f2dad4646f\\AuthorizationMiddleware.cs",
@@ -159,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ResourceInvoker.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\a611fe3348ad46b6ce1eef3fbac86b25df2487668bf3a9645b7ea8838c4b9331\\ResourceInvoker.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a611fe3348ad46b6ce1eef3fbac86b25df2487668bf3a9645b7ea8838c4b9331\\ResourceInvoker.cs",
@@ -172,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ControllerActionInvoker.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\78bdcd7e131d1ad2795a40227da45555dd99a59333741d6ee6192ddd7756c7a0\\ControllerActionInvoker.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\78bdcd7e131d1ad2795a40227da45555dd99a59333741d6ee6192ddd7756c7a0\\ControllerActionInvoker.cs",
@@ -185,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ActionMethodExecutor.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1cc6d2a634203e0de348b5980fee97b87977d5074b436e24ff974f8438968be4\\ActionMethodExecutor.cs",
@@ -198,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Borrow\\Index.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Borrow\\Index.cshtml",
@@ -206,12 +257,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Views\\Borrow\\Index.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAIwFcAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T02:26:11.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T02:26:11.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BorrowController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\BorrowController.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Controllers\\BorrowController.cs",
@@ -219,12 +269,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Controllers\\BorrowController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAIwEkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T02:21:24.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T02:21:24.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "BorrowBookViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\DTOs\\BorrowBookViewModel.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\DTOs\\BorrowBookViewModel.cs",
@@ -232,12 +281,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Models\\DTOs\\BorrowBookViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T02:20:50.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T02:20:50.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Bangcap.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\Bangcap.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\Bangcap.cs",
@@ -245,12 +293,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Models\\Bangcap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T02:01:46.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T02:01:46.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Controllers\\HomeController.cs",
@@ -258,12 +305,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:55:10.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:55:10.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Docgium.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\Docgium.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\Docgium.cs",
@@ -271,12 +317,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Models\\Docgium.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:54:22.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:54:22.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Phieumuonsach.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\Phieumuonsach.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\Phieumuonsach.cs",
@@ -284,12 +329,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Models\\Phieumuonsach.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:45:16.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:45:16.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Details.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Details.cshtml",
@@ -297,12 +341,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Details.cshtml",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T01:40:49.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:40:49.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Index.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Index.cshtml",
@@ -310,24 +353,24 @@
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Index.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T01:23:31.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:23:31.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 0,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Delete.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Delete.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Delete.cshtml",
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T01:22:50.675Z"
+              "WhenOpened": "2025-04-16T01:22:50.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Edit.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Edit.cshtml",
@@ -335,25 +378,24 @@
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Edit.cshtml",
               "ViewState": "AgIAAHQAAAAAAAAAAAAgwIEAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T01:16:31.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:16:31.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Create.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Create.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Create.cshtml",
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwIEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-16T01:05:42.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Home\\Index.cshtml",
@@ -365,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Nhaxuatban.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\Nhaxuatban.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\Nhaxuatban.cs",
@@ -377,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "SachCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\DTOs\\SachCreateDTO.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\DTOs\\SachCreateDTO.cs",
@@ -385,12 +427,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Models\\DTOs\\SachCreateDTO.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:56:16.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:56:16.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Sach.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\Sach.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\Sach.cs",
@@ -398,12 +439,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Models\\Sach.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:55:35.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:55:35.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "SachesController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\SachesController.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Controllers\\SachesController.cs",
@@ -411,12 +451,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Controllers\\SachesController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAUwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:55:06.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:55:06.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\About.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Controllers\\About.cs",
@@ -424,12 +463,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Controllers\\About.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:49:39.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:49:39.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ThuVienContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Models\\ThuVienContext.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Models\\ThuVienContext.cs",
@@ -437,12 +475,11 @@
               "RelativeToolTip": "NET_Midterm2025\\Models\\ThuVienContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAowDAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:47:46.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:47:46.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\appsettings.json",
               "RelativeDocumentMoniker": "NET_Midterm2025\\appsettings.json",
@@ -454,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
@@ -466,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Program.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Program.cs",

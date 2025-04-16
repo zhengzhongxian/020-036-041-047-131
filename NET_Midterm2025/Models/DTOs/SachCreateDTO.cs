@@ -9,6 +9,7 @@ namespace NET_Midterm2025.Models.DTOs
         public string TenSach { get; set; } = null!;
         [Display(Name = "Ảnh bìa sách")]
         [DataType(DataType.Text)]
+        [StringLength(50)]
         public string AnhBia { get; set; }
         [Display(Name = "ISBN")]
         public string? Isbn { get; set; }
