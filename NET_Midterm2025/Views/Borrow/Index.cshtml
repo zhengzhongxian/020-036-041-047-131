@@ -1,0 +1,97 @@
+﻿@model NET_Midterm2025.Models.DTOs.BorrowBookViewModel
+
+@{
+    ViewData["Title"] = "Borrow Books";
+}
+
+<h1>Borrow Books</h1>
+<h4>For: @Model.HoTenDocGia (ID: @Model.MaDocGia)</h4>
+<hr />
+
+@if (ViewData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @ViewData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="MaDocGia" />
+            <input type="hidden" asp-for="HoTenDocGia" />
+
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label asp-for="NgayMuon" class="form-label"></label>
+                    <input asp-for="NgayMuon" class="form-control" />
+                    <span asp-validation-for="NgayMuon" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="card mb-4">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">Select Books to Borrow</h5>
+                </div>
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-hover mb-0">
+                            <thead class="table-light">
+                                <tr>
+                                    <th width="50px">Select</th>
+                                    <th width="100px">Book ID</th>
+                                    <th>Title</th>
+                                    <th>Author</th>
+                                    <th>Publisher</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var book in Model.AvailableBooks)
+                                {
+                                    <tr>
+                                        <td>
+                                            <input type="checkbox"
+                                                   name="SelectedBookIds"
+                                                   value="@book.MaSach"
+                                                   class="form-check-input" />
+                                        </td>
+                                        <td>@book.MaSach</td>
+                                        <td>@book.TenSach</td>
+                                        <td>@book.TacGia</td>
+                                        <td>@(book.MaNxbNavigation?.TenNxb)</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <a asp-action="Index" asp-route-id="@Model.MaDocGia" class="btn btn-outline-secondary">
+                    <i class="bi bi-arrow-left"></i> Refresh
+                </a>
+                <button type="submit" class="btn btn-success">
+                    <i class="bi bi-check-circle"></i> Create Borrow Ticket
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <script>
+        // Auto-dismiss alerts after 5 seconds
+        $(document).ready(function(){
+            setTimeout(function(){
+                $('.alert').alert('close');
+            }, 5000);
+        });
+    </script>
+}

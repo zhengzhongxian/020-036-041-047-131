@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace NET_Midterm2025.Models;
 
+[Table("DOCGIA")]
 public partial class Docgium
 {
     public int MaDocGia { get; set; }
