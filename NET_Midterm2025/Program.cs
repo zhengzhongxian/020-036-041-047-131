@@ -1,8 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using NET_Midterm2025.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddDbContext<ThuVienContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Connection") ?? throw new InvalidOperationException("Connection string 'Midterm2025Context' not found.")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
