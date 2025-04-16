@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Thông tin nhóm";
+}
+
+<div class="container">
+    <h1 class="text-center">@ViewBag.GroupName</h1>
+
+    <div class="card my-4">
+        <div class="card-header bg-primary text-white">
+            <h3>Thông tin dự án</h3>
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@ViewBag.ProjectName</h5>
+            <p class="card-text">@ViewBag.ProjectDescription</p>
+            <p><strong>Học kỳ:</strong> @ViewBag.Semester</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header bg-success text-white">
+            <h3>Danh sách thành viên (5 người)</h3>
+        </div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>STT</th>
+                        <th>Họ và tên</th>
+                        <th>Mã sinh viên</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int counter = 1;
+                        foreach (var member in ViewBag.Members)
+                        {
+                            <tr>
+                                <td>@counter</td>
+                                <td>@member.Name</td>
+                                <td>@member.StudentId</td>
+                            </tr>
+                            counter++;
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
