@@ -260,3 +260,5 @@ C:\Users\ADMIN\Desktop\HK2-Season3\dognet\practice\NET_Midterm2025\NET_Midterm20
 C:\Users\ADMIN\Desktop\HK2-Season3\dognet\practice\NET_Midterm2025\NET_Midterm2025\obj\Debug\net8.0\NET_Midterm2025.pdb
 C:\Users\ADMIN\Desktop\HK2-Season3\dognet\practice\NET_Midterm2025\NET_Midterm2025\obj\Debug\net8.0\NET_Midterm2025.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\HK2-Season3\dognet\practice\NET_Midterm2025\NET_Midterm2025\obj\Debug\net8.0\ref\NET_Midterm2025.dll
+C:\Users\ADMIN\Desktop\HK2-Season3\dognet\practice\NET_Midterm2025\NET_Midterm2025\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ADMIN\Desktop\HK2-Season3\dognet\practice\NET_Midterm2025\NET_Midterm2025\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
