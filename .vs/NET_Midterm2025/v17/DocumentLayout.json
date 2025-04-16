@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\controllers\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\controllers\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\views\\saches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\controllers\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|solutionrelative:net_midterm2025\\controllers\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDECBAE7-962A-4357-ADB3-748D2104A8F7}|NET_Midterm2025\\NET_Midterm2025.csproj|c:\\users\\admin\\desktop\\hk2-season3\\dognet\\practice\\net_midterm2025\\net_midterm2025\\views\\saches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,17 +66,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Index.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Index.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Index.cshtml",
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-16T01:23:31.867Z",
               "EditorCaption": ""
@@ -95,15 +95,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Edit.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Edit.cshtml",
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Edit.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T01:16:31.592Z"
+              "WhenOpened": "2025-04-16T01:16:31.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -113,7 +114,7 @@
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Saches\\Create.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Saches\\Create.cshtml",
               "RelativeToolTip": "NET_Midterm2025\\Views\\Saches\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-16T01:05:42.062Z",
               "EditorCaption": ""
@@ -180,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Controllers\\About.cs",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Controllers\\About.cs",
@@ -188,8 +189,7 @@
               "RelativeToolTip": "NET_Midterm2025\\Controllers\\About.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:49:39.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:49:39.375Z"
             },
             {
               "$type": "Document",
@@ -217,13 +217,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK2-Season3\\dognet\\practice\\NET_Midterm2025\\NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "NET_Midterm2025\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-15T10:46:10.595Z",
               "EditorCaption": ""
