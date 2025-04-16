@@ -1,64 +1,152 @@
 ﻿@model NET_Midterm2025.Models.Sach
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Edit Book";
 }
 
-<h1>Edit</h1>
+<div class="container py-4">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white">
+            <div class="d-flex justify-content-between align-items-center">
+                <h2 class="mb-0"><i class="fas fa-book me-2"></i>Edit Book</h2>
+                <a asp-action="Index" class="btn btn-light btn-sm">
+                    <i class="fas fa-arrow-left me-1"></i> Back to List
+                </a>
+            </div>
+        </div>
 
-<h4>Sach</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="MaSach" />
-            <div class="form-group">
-                <label asp-for="TenSach" class="control-label"></label>
-                <input asp-for="TenSach" class="form-control" />
-                <span asp-validation-for="TenSach" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="AnhBia" class="control-label"></label>
-                <input asp-for="AnhBia" class="form-control" />
-                <span asp-validation-for="AnhBia" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Isbn" class="control-label"></label>
-                <input asp-for="Isbn" class="form-control" />
-                <span asp-validation-for="Isbn" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="TacGia" class="control-label"></label>
-                <input asp-for="TacGia" class="form-control" />
-                <span asp-validation-for="TacGia" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="NamXuatBan" class="control-label"></label>
-                <input asp-for="NamXuatBan" class="form-control" />
-                <span asp-validation-for="NamXuatBan" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="MaNxb" class="control-label"></label>
-                <select asp-for="MaNxb" class="form-control" asp-items="ViewBag.MaNxb"></select>
-                <span asp-validation-for="MaNxb" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="TriGia" class="control-label"></label>
-                <input asp-for="TriGia" class="form-control" />
-                <span asp-validation-for="TriGia" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
+        <div class="card-body">
+            <form asp-action="Edit" class="needs-validation" novalidate>
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                <input type="hidden" asp-for="MaSach" />
+
+                <div class="row g-3">
+                    <!-- Left Column -->
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="TenSach" class="form-label fw-bold"></label>
+                            <input asp-for="TenSach" class="form-control form-control-lg" placeholder="Enter book title" />
+                            <span asp-validation-for="TenSach" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="TacGia" class="form-label fw-bold"></label>
+                            <input asp-for="TacGia" class="form-control" placeholder="Enter author name" />
+                            <span asp-validation-for="TacGia" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Isbn" class="form-label fw-bold"></label>
+                            <input asp-for="Isbn" class="form-control" placeholder="Enter ISBN number" />
+                            <span asp-validation-for="Isbn" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="AnhBia" class="form-label fw-bold"></label>
+                            <input asp-for="AnhBia" class="form-control" placeholder="Enter cover image URL" />
+                            <span asp-validation-for="AnhBia" class="text-danger small"></span>
+                            @if (!string.IsNullOrEmpty(Model.AnhBia))
+                            {
+                                <div class="mt-2">
+                                    <small class="text-muted">Current cover:</small>
+                                    <img src="@Model.AnhBia" class="img-thumbnail mt-1" style="max-height: 100px;" />
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="MaNxb" class="form-label fw-bold">Publisher</label>
+                            <select asp-for="MaNxb" class="form-select" asp-items="ViewBag.MaNxb">
+                                <option value="">-- Select Publisher --</option>
+                            </select>
+                            <span asp-validation-for="MaNxb" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="NamXuatBan" class="form-label fw-bold">Publication Year</label>
+                            <input asp-for="NamXuatBan" class="form-control" placeholder="Enter publication year" />
+                            <span asp-validation-for="NamXuatBan" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="TriGia" class="form-label fw-bold">Value</label>
+                            <div class="input-group">
+                                <span class="input-group-text">$</span>
+                                <input asp-for="TriGia" class="form-control" placeholder="Enter book value" />
+                            </div>
+                            <span asp-validation-for="TriGia" class="text-danger small"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                    <button type="submit" class="btn btn-success px-4">
+                        <i class="fas fa-save me-2"></i>Save Changes
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary px-4">
+                        <i class="fas fa-times me-2"></i>Cancel
+                    </a>
+                </div>
+            </form>
+        </div>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+@section Styles {
+    <style>
+        .form-control, .form-select {
+            border-radius: 0.25rem;
+            padding: 0.5rem 0.75rem;
+        }
+
+            .form-control:focus, .form-select:focus {
+                border-color: #86b7fe;
+                box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+            }
+
+        .card {
+            border: none;
+            border-radius: 0.5rem;
+        }
+
+        .form-label {
+            margin-bottom: 0.5rem;
+        }
+
+        .img-thumbnail {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+        }
+    </style>
+}
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+    <script>
+        // Enhanced form validation
+        (function () {
+            'use strict'
+
+            var forms = document.querySelectorAll('.needs-validation')
+
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault()
+                            event.stopPropagation()
+                        }
+
+                        form.classList.add('was-validated')
+                    }, false)
+                })
+        })()
+    </script>
 }
