@@ -1,0 +1,65 @@
+﻿@model NET_Midterm2025.Controllers.ChiTietPhieuMuonViewModel
+
+@{
+    ViewData["Title"] = "Chi tiết phiếu mượn sách";
+}
+
+<div class="container">
+    <h2>Chi tiết phiếu mượn sách</h2>
+
+    <div class="card mb-4">
+        <div class="card-header bg-primary text-white">
+            Thông tin phiếu mượn
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered">
+                <tr>
+                    <th width="150">Mã phiếu</th>
+                    <td>PM@(Model.PhieuMuon.MaPhieuMuon.ToString("D3"))</td>
+                </tr>
+                <tr>
+                    <th>Ngày mượn</th>
+                    <td>@Model.PhieuMuon.NgayMuon.ToString("dd/MM/yyyy")</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <div class="card mb-4">
+        <div class="card-header bg-info text-white">
+            Người mượn: @Model.PhieuMuon.MaDocGiaNavigation?.HoTenDocGia
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header bg-success text-white">
+            Danh sách sách mượn
+        </div>
+        <div class="card-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Mã</th>
+                        <th>Tên sách</th>
+                        <th>Hình</th>
+                        <th>NXB</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var sach in Model.SachMuonList)
+                    {
+                        <tr>
+                            <td>@sach.MaSach</td>
+                            <td>@sach.TenSach</td>
+                            <td>
+                                @if (!string.IsNullOrEmpty(sach.AnhBia))
+                                {
+                                    <img src="@sach.AnhBia" width="50" alt="Ảnh bìa" />
+                                }
+                            </td>
+                            <td>@sach.NhaXuatBan</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            </
